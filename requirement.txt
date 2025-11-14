@@ -4,3 +4,8 @@ numpy
 PyOpenGL
 pygame
 
+
+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
+ 
+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
+ 
